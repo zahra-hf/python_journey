@@ -1,0 +1,8 @@
+#write a program that: Find the union and common.
+
+setA = {1, 2, 3, 4}
+setB = {3, 4, 5, 6}
+u = setA.union(setB)
+i = setA.intersection(setB)
+print(u)
+print(i)
